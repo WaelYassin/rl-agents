@@ -1,5 +1,6 @@
 from collections.abc import Mapping
 from gymnasium.core import Env
+import collections  # Add this import statement
 
 
 class Configurable(object):
